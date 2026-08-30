@@ -1,4 +1,4 @@
-# Shahriar Shaheen
+# Al Shahriar Bin Shaheen
 
 **Computer Science Student | Software Development | Problem Solving**
 
