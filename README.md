@@ -16,7 +16,7 @@ I enjoy learning by building projects and exploring different areas of computer 
 
 ## Tools & Technologies
 
-**Programming:** Python, SQL
+**Programming:** C,Python, SQL
 
 **Data & Machine Learning:** NumPy, Pandas, Scikit-learn, NLP
 
@@ -56,7 +56,6 @@ A 3D survival game developed using PyOpenGL.
 
 I practice data structures and algorithms to improve my problem-solving skills and strengthen my programming fundamentals.
 
-[LeetCode](https://leetcode.com/)
 
 ## Currently Learning
 
