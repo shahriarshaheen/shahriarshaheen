@@ -1,6 +1,7 @@
 # Al Shahriar Bin Shaheen
 
 **Computer Science Student | Software Development | Problem Solving**
+**BRACU27 | BASFD22**
 
 I am a Computer Science student interested in software development, problem solving, and building practical applications.
 
